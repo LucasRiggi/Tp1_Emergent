@@ -9,7 +9,7 @@ void afficherTab(int *tab, int taille);
 bool egalite(int tab1[], int tab2[], int taille);
 bool egalitePtr(int *tab1, int *tab2, int taille);
 int *concatenerTab(int *tab1, int *tab2, int taille);
-
+/*
 int main()
 {
     const int NB_ELEMENTS = 10;
@@ -45,6 +45,7 @@ int main()
 
     return 0;
 }
+*/
 
 void trierTab(int *tab, int taille)
 {

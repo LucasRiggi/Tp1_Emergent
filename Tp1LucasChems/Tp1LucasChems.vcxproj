@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="Date.cpp" />
     <ClCompile Include="Personne.cpp" />
+    <ClCompile Include="test-Date.cpp" />
+    <ClCompile Include="testPersonne.cpp" />
     <ClCompile Include="Tp1LucasChems.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -24,6 +24,12 @@
     <ClCompile Include="Personne.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test-Date.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testPersonne.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Personne.h">
